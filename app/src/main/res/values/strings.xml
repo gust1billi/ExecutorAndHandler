@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExecutorAndHandler</string>
+    <string name="image_to_load">Image to Load</string>
+    <string name="run_thread">Run Thread</string>
+</resources>
